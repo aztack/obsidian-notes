@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "42da4da63ed7979d",
+        "id": "5daf517ce60c6063",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Day Planners/Day Planner-20210922.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -44,12 +47,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "3dbb60450445fdec",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 192
   },
   "right": {
     "id": "6385a91d7bfd5306",
@@ -58,6 +69,7 @@
       {
         "id": "5fa2c56f0b9b8de4",
         "type": "tabs",
+        "dimension": 20.138203356367228,
         "children": [
           {
             "id": "48c4f6a058457545",
@@ -65,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Day Planners/Day Planner-20210922.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,16 +87,54 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "0bce6f70aaad82d7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2c54eb1fb032c08f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "fa9d080f8bf6cca1",
+        "type": "tabs",
+        "dimension": 79.86179664363277,
+        "children": [
+          {
+            "id": "c5c01a0bfa7ab859",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 353
   },
-  "active": "42da4da63ed7979d",
+  "active": "5daf517ce60c6063",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20210922.md",
+    "daily/2021/Sep/2021-09-22.md",
+    "2021-09-22.md",
+    "daily/2021/Untitled.md",
     "Untitled.md"
   ]
 }
