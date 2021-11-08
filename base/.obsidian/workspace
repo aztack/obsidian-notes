@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "diary/2021/2021-11-08.md",
+            "file": "diary/2021/11/2021-11-08.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2021/2021-11-08.md",
+                "file": "diary/2021/11/2021-11-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,9 @@
   },
   "active": "0aa1eb7f7211a782",
   "lastOpenFiles": [
-    "diary/2021/2021-11-08.md",
+    "diary/2021/11/2021-11-08.md",
     "2021-11-08.md",
+    "diary/2021/2021-11-08.md",
     "Day Planners/Day Planner-20210923.md",
     "Day Planners/Day Planner-20210922.md",
     "daily/2021/Sep/2021-09-22.md",
