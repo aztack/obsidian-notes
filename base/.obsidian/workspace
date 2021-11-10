@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0aa1eb7f7211a782",
+        "id": "1cede1c76f9fc02a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "diary/2021/11/2021-11-08.md",
+            "file": "diary/2021/11/2021-11-08/2021-11-08.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 187
+    "width": 300
   },
   "right": {
     "id": "6385a91d7bfd5306",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2021/11/2021-11-08.md",
+                "file": "diary/2021/11/2021-11-08/2021-11-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,24 +105,36 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "22cd6f3b4732ba7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "diary/2021/11/2021-11-08/2021-11-08.md"
+              }
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 353
+    "width": 211,
+    "collapsed": true
   },
-  "active": "0aa1eb7f7211a782",
+  "active": "1cede1c76f9fc02a",
   "lastOpenFiles": [
+    "diary/2021/11/2021-11-08/2021-11-08.md",
+    "diary/2021/11/2021-11-08/赵海洋-瞬间的永恒.mp3",
+    "diary/2021/11/2021-11-08/1001636423747_.pic.jpg",
+    "diary/2021/11/2021-11-08/991636423747_.pic.jpg",
+    "diary/2021/11/2021-11-08/burning-ghost-money.jpg",
+    "diary/2021/11/2021-11-08/981636423746_.pic.jpg",
+    "diary/2021/11/1001636423747_.pic.jpg",
     "diary/2021/11/2021-11-08.md",
     "2021-11-08.md",
-    "diary/2021/2021-11-08.md",
-    "Day Planners/Day Planner-20210923.md",
-    "Day Planners/Day Planner-20210922.md",
-    "daily/2021/Sep/2021-09-22.md",
-    "2021-09-22.md",
-    "daily/2021/Untitled.md",
-    "Untitled.md"
+    "diary/2021/2021-11-08.md"
   ]
 }
