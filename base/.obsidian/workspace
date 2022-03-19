@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "1cede1c76f9fc02a",
+        "id": "9e7e9416076313e4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "diary/2021/11/2021-11-08/2021-11-08.md",
+            "file": "life/excerpts/一些文字.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "1951eca9b6863635"
+      },
+      {
+        "id": "68d8dcd7a0dbc6ac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "life/excerpts/一些文字.md",
+            "mode": "preview"
+          }
+        },
+        "group": "1951eca9b6863635"
       }
     ],
     "direction": "vertical"
@@ -76,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2021/11/2021-11-08/2021-11-08.md",
+                "file": "life/excerpts/一些文字.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2021/11/2021-11-08/2021-11-08.md"
+                "file": "life/excerpts/一些文字.md"
               }
             }
           }
@@ -124,8 +137,9 @@
     "width": 211,
     "collapsed": true
   },
-  "active": "1cede1c76f9fc02a",
+  "active": "9e7e9416076313e4",
   "lastOpenFiles": [
+    "life/excerpts/一些文字.md",
     "diary/2021/11/2021-11-08/2021-11-08.md",
     "diary/2021/11/2021-11-08/赵海洋-瞬间的永恒.mp3",
     "diary/2021/11/2021-11-08/1001636423747_.pic.jpg",
@@ -134,7 +148,6 @@
     "diary/2021/11/2021-11-08/981636423746_.pic.jpg",
     "diary/2021/11/1001636423747_.pic.jpg",
     "diary/2021/11/2021-11-08.md",
-    "2021-11-08.md",
-    "diary/2021/2021-11-08.md"
+    "2021-11-08.md"
   ]
 }
